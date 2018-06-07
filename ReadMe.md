@@ -11,7 +11,7 @@
 
 #### If You are a Sender :
 1. Run **py.serv.PYShare.java** file from your main function.
-2. Waits until client is connected to your IP address.
+2. Program Waits until client is connected to your IP address.
 3. A GUI frame will popup by which you can select the file to be transferred.
 4. That's It.
 
