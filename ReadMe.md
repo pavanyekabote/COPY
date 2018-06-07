@@ -1,11 +1,11 @@
 # **Copy**
 
 #### Thought and path for its creation
-   Oneday I was sitting idle and was thinking to build a Messaging application using java. So I started working on it. Soon the project was completed, I was excited and we friends in my room did lots of texting ;) though it was a Desktop based CLI application.
+   One day I was sitting idle and was thinking to build a Messaging application using java. So, I started working on it. Soon the project was completed, I was excited, then friends in my room did lots of texting ;) though it was a Desktop based CLI application.
    
-   Later this my brain one day suddenly signalled me ***Why not upgrade this simple messaging application to be capable of transfering files between two nodes..!End of day, File is also data.*** Then I started to learn Networking concepts of java and upgraded its capabilities to transfer files too. 
+   My brain one day suddenly signalled me ***Why not upgrade this simple messaging application to be capable of transfering files between two nodes..!End of day, File is also data.*** Then I started to learn Networking concepts of java and upgraded its capabilities to transfer files too. 
    
-##### This was my happy journey of developing this COPY Project
+##### This was my happy journey of developing this COPY Project.
 
 ## How to run ?
 
